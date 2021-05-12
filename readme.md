@@ -17,3 +17,7 @@ Feel free to grab anything you need
 <a href="https://github.com/helia-developers/helia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helia-developers&repo=helia&title_color=ffffff&text_color=c9cacc&icon_color=E35809&bg_color=1d1f21" />
 </a>
+
+# Languages Pie Chart
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?pieckenst" frameborder="0"></iframe>
