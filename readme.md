@@ -15,6 +15,6 @@ Feel free to grab anything you need
 </a>
 
 <a href="https://github.com/helia-developers/helia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helia-developers&repo=helia&title_color=ffffff&text_color=c9cacc&icon_color=E35809&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obsidian-development&repo=helia&title_color=ffffff&text_color=c9cacc&icon_color=E35809&bg_color=1d1f21" />
 </a>
 
