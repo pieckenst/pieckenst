@@ -7,6 +7,7 @@ Feel free to grab anything you need
 Если хотите берите и используйте части кода отсюда для своих вещей
 
 # My stats
+<img align="center" src="https://discord.c99.nl/widget/theme-1/540142383270985738.png"/>
 <a href="https://github.com/pieckenst">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieckenst&title_color=ffffff&count_private=true&text_color=c9cacc&icon_color=E35809&bg_color=1d1f21&langs_count=20" />
 </a>
