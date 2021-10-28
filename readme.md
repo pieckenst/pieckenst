@@ -1,10 +1,12 @@
 # English
 Hello and welcome to my github page where you can find all kind of things that may be useful -
 Feel free to grab anything you need
+Currently a second year student at Mogilev State Polytechnic College
 
 # Русский
 Добро пожаловать на мою страницу гитхаб где вы можете найти вещи которые могут вам пригодиться -
 Если хотите берите и используйте части кода отсюда для своих вещей
+На данный момент студент второго курса Могилёвского Государственного Политехнического 
 
 # My stats
 <img align="center" src="https://discord.c99.nl/widget/theme-1/540142383270985738.png"/>
