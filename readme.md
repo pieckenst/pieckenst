@@ -2,13 +2,11 @@
 Hello and welcome to my github page where you can find all kind of things that may be useful -
 Feel free to grab anything you need
 
-Currently a third year student at Mogilev State Polytechnic College
 
 # Русский
 Добро пожаловать на мою страницу гитхаб где вы можете найти вещи которые могут вам пригодиться -
 Если хотите берите и используйте части кода отсюда для своих вещей
 
-На данный момент студент третьего курса Могилёвского Государственного Политехнического Колледжа
 
 # My stats
 <img align="center" src="https://discord.c99.nl/widget/theme-1/540142383270985738.png"/>
