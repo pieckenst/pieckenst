@@ -1,10 +1,10 @@
 # English
-Hello and welcome to my github page where you can find all kind of things that may be useful -
+Hello and welcome to my github page where you can find the projects i worked on and code that may be useful -
 Feel free to grab anything you need
 
 
 # Русский
-Добро пожаловать на мою страницу гитхаб где вы можете найти вещи которые могут вам пригодиться -
+Добро пожаловать на мою страницу гитхаб где вы можете найти вещи над которыми я работал  -
 Если хотите берите и используйте части кода отсюда для своих вещей
 
 
