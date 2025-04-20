@@ -4,12 +4,14 @@ I'm **Andrey Savich**, a passionate developer from **Mogilev, Belarus**. I enjoy
 
 ## About Me
 
-Well there's not much to say other than that im a student at Belarusian-Russian University and a software developer and will be one for next 3.5 years- then probably off to being a system administrator in some local Belarusian company 
+Well there's not much to say other than that im a student at Belarusian-Russian University and a software developer and will be one for next 3.5 years- then probably off to being a system administrator in some local Belarusian company for at least 10 years till I've got 10 years working experience in Employment record book expected by not government owned companies
 Completed Mogilev state polytechnic college in may 2024
 Here on this page you can find the projects i worked on and code that may be useful , feel free to grab anything you need
 
  Currently, I'm working on projects that leverage **TypeScript** and **Python** as well as **C#**
- Probably a couple of my decent ones are https://github.com/pieckenst/Mass-Effect-Legendary-Launcher - Replaces the official electronic arts launcher for mass effect legendary edition- has 1.5k unique downloads on nexus mods and 2.3k total
+
+ 
+Probably a couple of my decent projects are https://github.com/pieckenst/Mass-Effect-Legendary-Launcher - Replaces the official electronic arts launcher for mass effect legendary edition- has 1.5k unique downloads on nexus mods and 2.3k total
  https://github.com/pieckenst/WebLaunch - pretty much was an attempt at replicating functionality of web based Innova 4game Russian publisher game launcher - which used a custom protocol handler installed on windows pc which is then invoked from web browser and based on web browser selection and logged in state launches a game
 
 # Русский
