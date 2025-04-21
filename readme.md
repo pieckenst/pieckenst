@@ -4,7 +4,7 @@ I'm **Andrey Savich**, a passionate developer from **Mogilev, Belarus**. I enjoy
 
 ## About Me
 
-Well there's not much to say other than that im a student at Belarusian-Russian University and a software developer and will be one for next 3.5 years- then probably off to being a system administrator in some local Belarusian company for at least 10 years till I've got 10 years working experience in Employment record book expected by not government owned companies
+Well there's not much to say other than that im a student at Belarusian-Russian University and a software developer and will be one for next 3.5 years
 Completed Mogilev state polytechnic college in may 2024
 Here on this page you can find the projects i worked on and code that may be useful , feel free to grab anything you need
 
