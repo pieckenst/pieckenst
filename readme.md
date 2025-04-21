@@ -5,7 +5,10 @@ I'm **Andrey Savich**, a passionate developer from **Mogilev, Belarus**. I enjoy
 ## About Me
 
 Well there's not much to say other than that im a student at Belarusian-Russian University and a software developer and will be one for next 3.5 years
-Completed Mogilev state polytechnic college in may 2024
+
+I've Completed Mogilev state polytechnic college in may 2024
+
+
 Here on this page you can find the projects i worked on and code that may be useful , feel free to grab anything you need
 
  Currently, I'm working on projects that leverage **TypeScript** and **Python** as well as **C#**
