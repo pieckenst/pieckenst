@@ -23,7 +23,9 @@ Some links below to probably a couple of my decent projects are https://github.c
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=bots,dotnet,linux,css,html,discord,nodejs,rider,androidstudio&perline=8)](https://skillicons.dev)
+
 Decent at writing c# code - obviously cant call myself more than that
+
 # My stats
 
 🌟 **Public Repositories**: 68  
