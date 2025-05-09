@@ -12,8 +12,13 @@ I've Completed Mogilev state polytechnic college in may 2024
 Here on this page you can find the projects i worked on and code that may be useful , feel free to grab anything you need
 
  Currently, I'm working on projects that leverage **TypeScript** and **Python** as well as **C#**
-Some links below to probably a couple of my decent projects are https://github.com/pieckenst/Mass-Effect-Legendary-Launcher - Replaces the official electronic arts launcher for mass effect legendary edition- has 1.5k unique downloads on nexus mods and 2.3k total
- https://github.com/pieckenst/WebLaunch - pretty much was an attempt at replicating functionality of web based Innova 4game Russian publisher game launcher - which used a custom protocol handler installed on windows pc which is then invoked from web browser and based on web browser selection and logged in state launches a game
+
+
+Some links below to probably a couple of my decent projects are
+
+https://github.com/pieckenst/Mass-Effect-Legendary-Launcher - Replaces the official electronic arts launcher for mass effect legendary edition- has 1.5k unique downloads on nexus mods and 2.3k total
+
+https://github.com/pieckenst/WebLaunch - pretty much was an attempt at replicating functionality of web based Innova 4game Russian publisher game launcher - which used a custom protocol handler installed on windows pc which is then invoked from web browser and based on web browser selection and logged in state launches a game
 
 # Русский
 Добро пожаловать на мою страницу гитхаб где вы можете найти код и проекты над которыми я работал  -
