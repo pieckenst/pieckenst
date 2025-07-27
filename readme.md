@@ -35,7 +35,7 @@ Decent at writing c# code - obviously cant call myself more than that
 
 # My stats
 
-🌟 **Public Repositories**: 68  
+🌟 **Public Repositories**: 25  
 👥 **Followers**: 7  
 🔗 **Following**: 12
 
