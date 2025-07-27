@@ -1,4 +1,6 @@
-## Bat file folk use to inflate commits@echo off
+## Bat file folk use to inflate commits
+
+@echo off
 
 :: Change directory to the specified Git repository
 
