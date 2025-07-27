@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Andrey Savich**, a passionate developer from **Mogilev, Belarus**. I enjoy building various projects and software
+I'm **Andrey Savich**, a passionate developer from **Mogilev, Belarus**. I enjoy building various projects and software. I obviously don't spam conmits because that's rather pointless, it gets committed when it's ready enough to work and doesn't crash, i bothered with daily commits back in 2021 nowadays i get the code working then push it
 
 ## About Me
 
