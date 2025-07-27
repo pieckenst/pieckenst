@@ -1,5 +1,5 @@
 ## Bat file folk use to inflate commits
-
+```
 @echo off
 
 :: Change directory to the specified Git repository
@@ -75,3 +75,4 @@ SET BRANCH=master
     timeout /t 1 >nul
 
 goto loop
+```
