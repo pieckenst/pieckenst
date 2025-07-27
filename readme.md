@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Andrey Savich**, a passionate developer from **Mogilev, Belarus**. I love building various projects and software. As for how I prefer to work on projects, I don't do frequent commits. It's not worth it. I commit when the code is ready to work and doesn't crash.
+I'm **Andrey Savich**, a passionate developer from **Mogilev, Belarus**. I love building various projects and software. As for how I prefer to work on projects, I don't do frequent commits onto GitHub , i do the coding privately over couple hours then get it committed. It's not worth it to daily commit and nowadays GitHub commit count can be inflated. I commit when the code is ready to work and doesn't crash.
 
 Back in 2021, I used to commit daily. Nowadays, I focus on getting the code to work properly and then push it.
 
