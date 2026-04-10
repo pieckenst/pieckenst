@@ -23,9 +23,8 @@ Here are some links to probably a couple of my decent projects:
 * Contributed **190+ commits** (April 2026 alone)
 * Focus areas:
 
-  * UI controls & layout system
-  * Localization support
-  * Crash handling & diagnostics UI
+  * Additional UI controls
+  * Improvements to localization system
   * Component architecture improvements
 * Active development in collaboration with other contributors
 
