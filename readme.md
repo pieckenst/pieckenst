@@ -19,6 +19,17 @@ Here are some links to probably a couple of my decent projects:
 1. [Mass-Effect-Legendary-Launcher](https://github.com/pieckenst/Mass-Effect-Legendary-Launcher) — Replaces the official Electronic Arts launcher for the Mass Effect Legendary Edition. It has 1.5k unique downloads on Nexus Mods and 2.3k total.
 
 2. [WebLaunch](https://github.com/pieckenst/WebLaunch) — This was an attempt to replicate the functionality of the web-based Innova 4game Russian publisher game launcher. It uses a custom protocol handler installed on a Windows PC, which is then invoked from a web browser. Based on the web browser selection and logged in state, it launches a game.
+3. [PleasantUi](https://github.com/Onebeld/PleasantUI) -  A modern UI framework and component library for Avalonia built with C#.
+* Contributed **190+ commits** (April 2026 alone)
+* Focus areas:
+
+  * UI controls & layout system
+  * Localization support
+  * Crash handling & diagnostics UI
+  * Component architecture improvements
+* Active development in collaboration with other contributors
+
+> Due to GitHub attribution quirks, some contributions may only appear when viewing the repository directly or via my fork.
 
    
 # Русский
