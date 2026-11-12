@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Andrey Savich**, a passionate developer from **Mogilev, Belarus**. I love creating different projects and software. When it comes to how I work on projects, I don't like to commit changes frequently to GitHub. Instead, I code privately for a couple of hours and then commit the changes.
+I'm **Andrey Savich**, a developer and guy whose birth place is **Mogilev, Belarus**. I love creating different projects and software. When it comes to how I work on projects, I don't like to commit changes frequently to GitHub. Instead, I code privately for a couple of hours and then commit the changes.
 
 I don't see the point in committing daily. Besides, nowadays, the number of commits on GitHub can be misleading. Instead, I commit only when the code is ready to work and doesn't crash.
 
